@@ -8,7 +8,7 @@
 - 🤝 Programming Basics with **Python** 
 - 🤝 Fundamentals with **Python**
 - 🤝 Advanced with **Python**
-- 🌱 Currently learning **Python OOP**
+- 🌱 Currently learning OOP with **Python**
 
 ---
 
