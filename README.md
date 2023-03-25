@@ -19,7 +19,7 @@
 <a href="https://fb.com/mario.lekow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mario.lekow" height="30" width="40" /></a>
 <a href="https://instagram.com/mariolekov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mariodlekov" height="30" width="40" /></a>
 </p>
-<p><a href="https://ko-fi.com/https://www.buymeacoffee.com/mariodlekov"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://www.buymeacoffee.com/mariodlekov" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/mariodlekov"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://www.buymeacoffee.com/ldlekov" /></a></p><br><br>
 
 ---
 
