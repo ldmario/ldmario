@@ -3,7 +3,7 @@
 
 ---
 
-<img align="right" width=200px height=120px alt="side_sticker" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif" />
+<img align="right" width=200px height=110px alt="side_sticker" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif" />
 
 - 🤝 Programming Basics with **Python** 
 - 🤝 Fundamentals with **Python**
