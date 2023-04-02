@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mario Lekov, from Bulgaria</h1>
-<h3 align="center">Future software engineer, highly passionate and inspired about technology !</h3>
+<h1 align="center">Hello  👋, </h1>
+<h2 align="center">My name is Mario Lekov and I'm from Bulgaria 🇧🇬</h2>
+<h4 align="center">Future software engineer, highly passionate and inspired about technology !</h4>
+<h4 align="center">I'm currently looking forward a projects to participate in. Do not hesitate to contact me.</h4>
 
 ---
 
