@@ -1,7 +1,7 @@
 <h1 align="center">Hello  👋, </h1>
 <h2 align="center">My name is Mario Lekov and I'm from Bulgaria 🇧🇬</h2>
-<h4 align="center">Future software engineer, highly passionate and inspired about technology !</h4>
-<h4 align="center">I'm currently looking forward a projects to participate in. Do not hesitate to contact me.</h4>
+<h4 align="center">Highly passionate and inspired about technology !</h4>
+<h4 align="center">Currently I'm looking forward a projects to participate in. Do not hesitate to contact me.</h4>
 
 ---
 
@@ -10,9 +10,9 @@
 - 🤝 Programming Basics with **Python** 
 - 🤝 Fundamentals with **Python**
 - 🤝 Advanced with **Python**
-- 🌱 Currently learning OOP with **Python**
-
----
+- 🤝 OOP with **Python**
+- 🌱 Web Basics
+- 🌱 Django Framework
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +21,6 @@
 <a href="https://fb.com/mario.lekow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mario.lekow" height="30" width="40" /></a>
 <a href="https://instagram.com/mariolekov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mariodlekov" height="30" width="40" /></a>
 </p>
-<p><a href="https://www.buymeacoffee.com/mariodlekov"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://www.buymeacoffee.com/ldlekov" /></a></p><br><br>
 
 ---
 
