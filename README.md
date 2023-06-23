@@ -1,7 +1,7 @@
 <h1 align="center">Hello  👋, </h1>
 <h2 align="center">My name is Mario Lekov and I'm from Bulgaria 🇧🇬</h2>
 <h4 align="center">Highly passionate and inspired about technology !</h4>
-<h4 align="center">Currently I'm looking forward a projects to participate in. Do not hesitate to contact me.</h4>
+<h4 align="center">Currently looking forward a projects to participate in, do not hesitate to contact me.</h4>
 
 ---
 
