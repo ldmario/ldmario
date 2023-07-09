@@ -13,6 +13,7 @@
 - 🤝 OOP with **Python**
 - 🌱 Web Basics
 - 🌱 Django Framework
+- 🌱 Algorithms and data structures with **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
