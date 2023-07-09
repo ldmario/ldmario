@@ -11,7 +11,7 @@
 - 🤝 Fundamentals with **Python**
 - 🤝 Advanced with **Python**
 - 🤝 OOP with **Python**
-- 🌱 Web Basics
+- 🤝 Web Basics
 - 🌱 Django Framework
 - 🌱 Algorithms and data structures with **Python**
 
